@@ -1,0 +1,2 @@
+# This file ensures the saved_model directory is tracked by Git
+# Model files will be generated when you run the Jupyter notebook
