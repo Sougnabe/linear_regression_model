@@ -94,9 +94,11 @@ linear_regression_model/
 
 ## API Deployment URL
 
-**Swagger UI Documentation**: `https://your-deployed-api.onrender.com/docs`
+**Live API**: `https://linear-regression-model-gux3.onrender.com`  
+**Swagger UI Documentation**: `https://linear-regression-model-gux3.onrender.com/docs`  
+**Health Check**: `https://linear-regression-model-gux3.onrender.com/health`
 
-> **Note**: Replace with your actual deployed URL after deployment on Render, Railway, or Heroku.
+> **Status**: ✅ Deployed and operational on Render
 
 For local testing:
 ```bash
@@ -190,7 +192,7 @@ final String apiUrl = 'https://your-deployed-api.com/predict';
 
 ## Video Demo
 
-**YouTube Link**: [ADD YOUR VIDEO LINK HERE]
+**YouTube Link**: [TO BE ADDED AFTER RECORDING]
 
 The 5-minute video demonstrates:
 1. ✅ Notebook walkthrough showing model training and results
