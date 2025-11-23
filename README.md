@@ -192,7 +192,7 @@ final String apiUrl = 'https://your-deployed-api.com/predict';
 
 ## Video Demo
 
-**YouTube Link**: [TO BE ADDED AFTER RECORDING]
+**Loom Video**: https://www.loom.com/share/2096bc70480b4dd3888bc564a40df667
 
 The 5-minute video demonstrates:
 1. ✅ Notebook walkthrough showing model training and results
