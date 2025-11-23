@@ -20,12 +20,6 @@ class MyApp extends StatelessWidget {
           seedColor: Colors.deepPurple,
           brightness: Brightness.light,
         ),
-        cardTheme: CardTheme(
-          elevation: 4,
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(16),
-          ),
-        ),
         inputDecorationTheme: InputDecorationTheme(
           filled: true,
           fillColor: Colors.grey.shade50,
@@ -716,9 +710,6 @@ class _PredictionScreenState extends State<PredictionScreen> {
               const SizedBox(height: 24),
             ],
           ),
-        ),
-      ),
-          ],
         ),
       ),
     );
